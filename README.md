@@ -1,0 +1,2 @@
+# .github
+Basics and stuff
