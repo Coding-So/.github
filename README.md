@@ -11,11 +11,13 @@ New Projects are created as Folders inside the Coding-So/ Directory. Here are so
 - Coding-So/...
 
 ## Contact
+
 If you want to be a part of a Team, want to share a Project of your own or want to fix a few Bugs then refer to these Links
 
 - Discord: Pending
 - E-Mail: Business E-Mail from Strato Pending
 
 ### Additional Info
-I am using this Github Repo for achievements. Very cool.
 
+I am using this Github Repo for achievements. Very cool.
+Github Desktop. Also very cool.
