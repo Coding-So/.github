@@ -18,6 +18,5 @@ If you want to be a part of a Team, want to share a Project of your own or want 
 - E-Mail: Business E-Mail from Strato Pending
 
 ### Additional Info
-
 I am using this Github Repo for achievements. Very cool.
-Github Desktop. Also very cool.
+Github Desktop. Also very cool. Very Cool indeed
