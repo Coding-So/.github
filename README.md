@@ -11,6 +11,7 @@ New Projects are created as Folders inside the Coding-So/ Directory. Here are so
 - Coding-So/...
 
 ## Contact
+
 If you want to be a part of a Team, want to share a Project of your own or want to fix a few Bugs then refer to these Links
 
 - Discord: Pending
@@ -18,12 +19,4 @@ If you want to be a part of a Team, want to share a Project of your own or want 
 
 ### Additional Info
 I am using this Github Repo for achievements. Very cool.
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
-=======
 Github Desktop. Also very cool. Very Cool indeed
->>>>>>> Stashed changes
-=======
-Github Desktop. Also very cool. Very Cool indeed
->>>>>>> Stashed changes
