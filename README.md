@@ -19,7 +19,11 @@ If you want to be a part of a Team, want to share a Project of your own or want 
 ### Additional Info
 I am using this Github Repo for achievements. Very cool.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+Github Desktop. Also very cool. Very Cool indeed
+>>>>>>> Stashed changes
 =======
 Github Desktop. Also very cool. Very Cool indeed
 >>>>>>> Stashed changes
