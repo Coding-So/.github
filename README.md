@@ -16,3 +16,6 @@ If you want to be a part of a Team, want to share a Project of your own or want 
 - Discord: Pending
 - E-Mail: Business E-Mail from Strato Pending
 
+### Additional Info
+I am using this Github Repo for achievements. Very cool.
+
